@@ -1,0 +1,126 @@
+{
+    "书源基础信息": {
+        "bookSourceName": {
+            "label": "书源名称",
+            "value": ""
+        },
+        "bookSourceGroup": {
+            "label": "书源分组",
+            "value": ""
+        },
+        "bookSourceUrl": {
+            "label": "书源URL",
+            "value": ""
+        },
+        "loginUrl": {
+            "label": "登陆URL",
+            "value": ""
+        },
+        "checkUrl": {
+            "label": "检测URL",
+            "value": ""
+        },
+        "httpUserAgent": {
+            "label": "User-Agent",
+            "value": ""
+        }
+    },
+    "搜索规则": {
+        "ruleFindUrl": {
+            "label": "发现规则",
+            "value": ""
+        },
+        "ruleSearchUrl": {
+            "label": "搜索地址",
+            "value": ""
+        },
+        "ruleSearchList": {
+            "label": "搜索结果列表规则",
+            "value": ""
+        },
+        "ruleSearchName": {
+            "label": "搜索结果书名规则",
+            "value": ""
+        },
+        "ruleSearchAuthor": {
+            "label": "搜索结果作者规则",
+            "value": ""
+        },
+        "ruleSearchCoverUrl": {
+            "label": "搜索结果封面规则",
+            "value": ""
+        },
+        "ruleSearchKind": {
+            "label": "搜索结果分类规则",
+            "value": ""
+        },
+        "ruleSearchLastChapter": {
+            "label": "搜索结果最新章节规则",
+            "value": ""
+        },
+        "ruleSearchNoteUrl": {
+            "label": "搜索结果书籍URL规则",
+            "value": ""
+        }
+    },
+    "书籍内容规则": {
+        "ruleBookUrlPattern": {
+            "label": "书籍详情URL正则",
+            "value": ""
+        },
+        "ruleBookName": {
+            "label": "书名规则",
+            "value": ""
+        },
+        "ruleBookAuthor": {
+            "label": "作者规则",
+            "value": ""
+        },
+        "ruleCoverUrl": {
+            "label": "封面规则",
+            "value": ""
+        },
+        "ruleBookKind": {
+            "label": "分类规则",
+            "value": ""
+        },
+        "ruleBookLastChapter": {
+            "label": "最新章节规则",
+            "value": ""
+        },
+        "ruleChapterUrl": {
+            "label": "目录URL规则",
+            "value": ""
+        },
+        "ruleIntroduce": {
+            "label": "简介规则",
+            "value": ""
+        }
+    },
+    "书籍详情规则": {
+        "ruleChapterList": {
+            "label": "目录列表规则",
+            "value": ""
+        },
+        "ruleChapterUrlNext": {
+            "label": "章节列表下一页规则",
+            "value": ""
+        },
+        "ruleChapterName": {
+            "label": "章节名规则",
+            "value": ""
+        },
+        "ruleContentUrl": {
+            "label": "章节URL规则",
+            "value": ""
+        },
+        "ruleBookContent": {
+            "label": "正文规则",
+            "value": ""
+        },
+        "ruleContentUrlNext": {
+            "label": "正文下一页URL规则",
+            "value": ""
+        }
+    }
+}
